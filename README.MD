@@ -6,6 +6,9 @@ This is a flavored mirror of Malware Domain List, no entry is added or removed.
 It is available in plain hosts name format as well as Adblock Plus filter
 format.
 
+This mirror was created because the source server is very unstable. A bot will
+(try to) update this mirror every day.
+
 **The plain hosts name format is recommended for uBlock Origin and Nano
 Adblocker.**
 
