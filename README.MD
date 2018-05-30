@@ -25,6 +25,11 @@ Origin**
 
 (todo)
 
+```
+https://cdn.rawgit.com/NanoMeow/MDLMirror/master/hosts.txt
+https://cdn.rawgit.com/NanoMeow/MDLMirror/master/filter.txt
+```
+
 ## Other details
 
 Home page: `https://www.malwaredomainlist.com/`
