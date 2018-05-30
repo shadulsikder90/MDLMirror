@@ -20,8 +20,8 @@ ping @jspenguin2017 in your Pull Request.
 
 ## Subscribing
 
-**The plain hosts name format is recommended for uBlock Origin and Nano
-Adblocker.**
+**The plain hosts name format is recommended for Nano Adblocker and uBlock
+Origin**
 
 (todo)
 
