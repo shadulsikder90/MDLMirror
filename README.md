@@ -13,7 +13,7 @@ For issues concerning content of the list, please contact maintainers of
 Malware Domain List using the home page link below.
 
 For other issues and questions, please open an issue in NanoCore repository:
-https://github.com/NanoAdblocker/NanoCore/issues
+`https://github.com/NanoAdblocker/NanoCore/issues`
 
 This repository is updated by a bot and Pull Requests are not monitored, if you
 think something needs to be changed, ping **@jspenguin2017** in your Pull
