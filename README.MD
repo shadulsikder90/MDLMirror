@@ -9,9 +9,6 @@ format.
 This mirror was created because the source server is very unstable. A bot will
 (try to) update this mirror every day.
 
-**The plain hosts name format is recommended for uBlock Origin and Nano
-Adblocker.**
-
 For issues concerning content of the list, please contact maintainers of 
 Malware Domain List using the home page link below.
 
@@ -19,10 +16,12 @@ For other issues and questions, please open an issue in NanoCore repository:
 `https://github.com/NanoAdblocker/NanoCore/issues`
 
 This repository is updated by a bot and Pull Requests are not monitored, if you
-think something needs to be changed, ping **@jspenguin2017** in your Pull
-Request.
+think something needs to be changed, ping @jspenguin2017 in your Pull Request.
 
 ## Subscribing
+
+**The plain hosts name format is recommended for uBlock Origin and Nano
+Adblocker.**
 
 (todo)
 
