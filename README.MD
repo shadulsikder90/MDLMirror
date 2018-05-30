@@ -31,7 +31,7 @@ Home page: `https://www.malwaredomainlist.com/`
 
 Source: `https://www.malwaredomainlist.com/hostslist/hosts.txt`
 
-License: 
+License (from home page):
 ```
 Malware Domain List is a non-commercial community project.
 Our list can be used for free by anyone. Feel free to use it.
