@@ -6,8 +6,8 @@ This is a flavored mirror of Malware Domain List, no entry is added or removed.
 It is available in plain hosts name format as well as Adblock Plus filter
 format.
 
-The plain hosts name format is recommended for uBlock Origin and Nano
-Adblocker.
+**The plain hosts name format is recommended for uBlock Origin and Nano
+Adblocker.**
 
 For issues concerning content of the list, please contact maintainers of 
 Malware Domain List using the home page link below.
