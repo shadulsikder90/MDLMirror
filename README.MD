@@ -12,7 +12,7 @@ This mirror was created because the source server is very unstable. A bot will
 For issues concerning content of the list, please contact maintainers of 
 Malware Domain List using the home page link below.
 
-For other questions and issues, please open an issue in NanoCore repository:
+For other questions and issues, please open issues in NanoCore repository:
 `https://github.com/NanoAdblocker/NanoCore/issues`
 
 Pull Requests are not monitored, if you think something needs to be changed,
