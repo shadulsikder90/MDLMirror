@@ -2,17 +2,24 @@
 
 Mirror of Malware Domain List
 
+This is a flavored mirror of Malware Domain List, no entry is added or removed.
+It is available in plain hosts name format as well as Adblock Plus filter
+format.
+
+The plain hosts name format is recommended for uBlock Origin and Nano
+Adblocker.
+
+(todo)
+
 ## Subscribing
 
 (todo)
 
 ## Other details
 
-(todo)
+Home page: `https://www.malwaredomainlist.com/`
 
-Source: https://www.malwaredomainlist.com/hostslist/hosts.txt
-
-Home page: https://www.malwaredomainlist.com/
+Source: `https://www.malwaredomainlist.com/hostslist/hosts.txt`
 
 License: 
 ```
