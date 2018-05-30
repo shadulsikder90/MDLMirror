@@ -20,8 +20,8 @@ ping @jspenguin2017 in your Pull Request.
 
 ## Subscribing
 
-**The plain hosts name format is recommended for Nano Adblocker and uBlock
-Origin**
+**Please choose one, the plain hosts name format is recommended for Nano
+Adblocker and uBlock Origin**
 
 [Subscribe to plain hosts name format](https://subscribe.adblockplus.org/?location=https%3A%2F%2Fcdn.rawgit.com%2FNanoMeow%2FMDLMirror%2Fmaster%2Fhosts.txt&title=Malware%20Domain%20List)
 
