@@ -9,7 +9,7 @@ format.
 This mirror was created because the source server is very unstable. A bot will
 (try to) update this mirror every day.
 
-For issues concerning content of the list, please contact maintainers of 
+For issues concerning content of the list, please contact maintainers of
 Malware Domain List using the home page link below.
 
 For other questions and issues, please open issues in NanoCore repository:
