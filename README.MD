@@ -2,6 +2,11 @@
 
 Mirror of Malware Domain List
 
+*Note*: The origin server is down. The last time a response was captured is
+`Thu, 08 Nov 2018 19:14:05 GMT`.
+
+## Content
+
 This is a flavored mirror of Malware Domain List, no entry is added or removed
 (except local domains). It is available in plain hosts name format as well as
 Adblock Plus filter format.
