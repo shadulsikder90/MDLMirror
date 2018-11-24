@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: Malware Domain List
 ! Expires: 5 days
-! Cached: Fri, 23 Nov 2018 15:44:30 GMT
+! Cached: Sat, 24 Nov 2018 14:50:07 GMT
 ! License: http://www.malwaredomainlist.com/
 ! Source: https://www.malwaredomainlist.com/hostslist/hosts.txt
 ||0koryu0.easter.ne.jp^
